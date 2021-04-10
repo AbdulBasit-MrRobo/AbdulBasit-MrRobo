@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbdulBasit Hakimi
-- 👀 I’m interested in Machine Learning/ Artificial Intelligence/ Blockchain/ Data Science and any more.
+- 👀 I’m interested in Machine Learning/ Artificial Intelligence/ Blockchain/ Data Science and Quantum Computing.
 - 🌱 I’m currently learning Node.js and MongoDB 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me basithakimi@gmail.com
