@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdulBasit Hakimi
 - 👀 I’m interested and worked in Machine Learning, Artificial Intelligence, Blockchain, Data Science and Quantum Computing fields.
-- 🌱 I’m currently learning Node.js and MongoDB 
+- 🌱 I’m currently learning NodeJs, MongoDB and ReactJs.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me basithakimi@gmail.com
 - :camera: Instagram ID : @abdul_basit_h_16
